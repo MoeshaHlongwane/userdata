@@ -1,6 +1,22 @@
-{
+[{
     "id": "Positive" ,
     "name": "Nikiwe",
     "email": "nikiwehlongwane22@gmail.com",
     "registrationDate": "20/03/2024"
+},
+{ 
+    "id": "Negative",
+    "title": "Miss",
+    "content": "Happy",
+    "userId" : "MoeshaHlongwane"
+}, 
+{
+    "id": "Positive",
+    "title": "Mrs",
+    "content": "Angry",
+    "userId" : "NikiweHlongwane"
+    
 }
+
+]
+
