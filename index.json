@@ -7,13 +7,13 @@
 { 
     "id": "Negative",
     "title": "Miss",
-    "content": "Happy",
+    "content": "Relationships",
     "userId" : "MoeshaHlongwane"
 }, 
 {
     "id": "Positive",
     "title": "Mrs",
-    "content": "Angry",
+    "content": "Sport",
     "userId" : "NikiweHlongwane"
     
 }
